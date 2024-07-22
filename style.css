@@ -59,6 +59,7 @@ h2, h3, h4{
 body{
     background-image: url(imgs/colab-web.png);
     backdrop-filter: blur(5px);
+    background-size:100vw;
     overflow-x: hidden;
 }
 
